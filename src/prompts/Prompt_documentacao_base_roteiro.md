@@ -1,0 +1,3 @@
+Utilizei um Deep research pelo Gemini, para criar um documento que serviria de base para o roteiro do podcast. Segue prompt abaixo:
+
+Descreva como treinar a criação de prompts de AI e lógica de programação podem contribuir com um maior raciocínio, desenvolvimento da oratória e organização de pensamento e fala utilizando conceitos de neurociência, apenas com dados confiáveis de fontes renomadas na área e de estudos sólidos e cientificamente comprovados, evidenciando as fontes e caso seja um fato cientificamente comprovado, identifique se essas práticas de lógica e IA contribuem para a neuroplasticidade.
